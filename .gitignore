@@ -1,0 +1,6 @@
+# Project exclude paths
+/.idea
+.idea/
+data/__pycache__/
+models/
+utils/__pycache__/

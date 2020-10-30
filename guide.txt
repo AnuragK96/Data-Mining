@@ -1,0 +1,2 @@
+Type 'python main.py -t - training
+Or 'python main.py -e' - predicting
